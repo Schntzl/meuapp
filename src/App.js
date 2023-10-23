@@ -42,8 +42,7 @@ function App() {
         <MeuTitulo />
         <MyTable />
         <p>
-          Edit <code>src/App.js</code> and save to reload. João Pedro
-          {sobrenome}
+          Edit <code>src/App.js</code> and save to reload. João Pedro {sobrenome}
         </p>
         <a
           className="App-link"
